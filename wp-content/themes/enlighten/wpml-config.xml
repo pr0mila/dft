@@ -1,0 +1,33 @@
+<wpml-config>
+<admin-texts>
+<key name="theme_mods_enlighten">
+    <key name="enlighten_header_text" />
+    <key name="enlighten_phone_header" />
+    <key name="enlighten_email_header" />
+    <key name="enlighten_localtion_header" />
+    <key name="enlighten_news_slide_title" />
+    <key name="enlighten_portfolio_title" />
+    <key name="enlighten_portfolio_title_sub" />
+    <key name="enlighten_service_title" />
+    <key name="enlighten_service_title_sub" />
+    <key name="enlighten_service_description" />
+    <key name="enlighten_achieve_title" />
+    <key name="enlighten_achieve_title_sub" />
+    <key name="enlighten_achieve_title_one" />
+    <key name="enlighten_achieve_title_two" />
+    <key name="enlighten_achieve_title_three" />
+    <key name="enlighten_achieve_title_four" />
+    <key name="enlighten_video_title" />
+    <key name="enlighten_video_title_sub" />
+    <key name="enlighten_cta_section_title" />
+    <key name="enlighten_cta_button_text" />
+    <key name="enlighten_faq_title" />
+    <key name="enlighten_news_title" />
+    <key name="enlighten_message_aurhot" />
+    <key name="enlighten_message_aurhot_designation" />
+    <key name="enlighten_client_title" />
+    <key name="enlighten_client_title_sub" />
+    <key name="enlighten_footer_text" />    
+</key>
+</admin-texts>
+</wpml-config>
